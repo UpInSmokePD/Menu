@@ -1,0 +1,155 @@
+/* Add your own CSS styles here */
+
+@media (max-width: 480px) {
+  h1,
+  h2 {
+    font-size: 24px;
+  }
+
+  li {
+    font-size: 14px;
+  }
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: system-ui;
+  padding: 20px;
+}
+
+.app {
+  display: flex;
+  padding: auto;
+}
+
+.header {
+  text-align: center;
+}
+.logo {
+  width: 50vh;
+  
+}
+.smoke-effect {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: url("https://cdn.pixabay.com/photo/2014/03/25/22/53/smoke-298243_1280.jpg") no-repeat;
+  background-size: cover;
+  opacity: 0.5;
+  pointer-events: none; /* Prevents the smoke effect from interfering with the content */
+  animation: smoke-animation 25s infinite linear; /* Adjust the duration as needed */
+}
+@keyframes smoke-animation {
+  0% {
+    background-position: center top;
+  }
+  100% {
+    background-position: center bottom;
+  }
+}
+
+.menu-container {
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.category {
+  margin-bottom: 20px;
+}
+
+.category-title {
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.grid {
+  display: grid;
+  grid-auto-flow: column;
+  grid-gap: 20px;
+}
+
+@media (max-width: 860px) {
+  .grid{
+    grid-auto-flow: row;
+  }
+}
+
+
+.menu-list {
+  margin-bottom: 10px;
+  list-style: none;
+  padding: 0;
+}
+
+.menu-item {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.inner-border {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.outer-border {
+  border: 2px solid #edc846;
+  height: 99%;
+  width: 98%;
+  padding: 6px;
+  margin: 0 auto;
+}
+
+@media (min-width: 992px) {
+  .outer-border {
+    height: 94%;
+  }
+}
+
+.mid-border {
+  border: 6px solid #edc846;
+  height: 100%;
+  width: 100%;
+  padding: 6px;
+  margin: auto;
+}
+
+.inner-border {
+  position: relative;
+  border: 2px solid #edc846;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+}
+
+h1,
+h2 {
+  font-size:2.5em;
+  background: linear-gradient(to right, #ffd700, #ffaf00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 2px 2px 4px rgb(163 155 123 / 50%);
+  text-transform: uppercase;
+}
+
+.avatar {
+  opacity: 0.75;
+  -webkit-filter: invert(1);
+  filter: invert(1);
+}
+.avatar img {
+  width: 200px;
+}
+
+
+li {
+  font-size:larger;
+  text-shadow: 2px 2px 4px rgb(0 0 0);
+  
+}
