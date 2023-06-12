@@ -1,25 +1,25 @@
-Double Apple
-Mint
-Watermelon
-Grape
-Peach
-Strawberry
-Blueberry
-Mango
-Lemon
-Orange
-Cherry
-Rose
-Cappuccino
-Vanilla
+Cherry Cola (Ceresnova Kola)
+Raspberry (Malina)
+Pinkman (Jahoda, Grep, Malina)
+Kiwi Smoothie
+Sweet Peach (Sladka Broskyna)
+Lemon Pie (Citronovy Kolac)
+Gooseberry (Kysly Egres)
+Mandarin (Mandarinka)
+Choco Mint (Mentolova Cokolada)
+Banna Mama (Sladky Banan)
+Pinaapple (Ananas)
+Red Alert (Cerveny Melon, Mirabelky, Mata)
+Acot (Marhula, Zelene Jablko)
+Virgin Melon (Zlty Melon)
+Skyline (Limetka)
+Watermelon (Melon)
+Appricot Spring Blend (Marhula)
+Kashmir Peach (Korenasta Broskyna)
+Tropic Ray (Ananas, Kokos)
 Cola
-Pineapple
-Kiwi
-Guava
-Bubble Gum
-Cinnamon
-Double Apple
-Mint
-Watermelon
-Grape
-Peach
+Melon Halls (Melonove Halls)
+Berry Halls (Lesne Ovocie, Cukriky)
+Honey Halls (Medove Halls)
+Sea Buckthorn (Grep, Zazvor, Resetliak)
+Grep & Berries (Hrozno, Lesne Ovocie)
