@@ -32,4 +32,5 @@ C13 ( broskyňa, papája,dračie ovocie )
 C63 ( fanta, baza)
 C85 (guava, sladká čučoriedka ) 
 C83 ( zelené, červené jablko, aníz )
+C74 ( melón, mandarínka )
 
