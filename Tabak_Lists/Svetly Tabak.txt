@@ -1,14 +1,19 @@
-Ice strawberry banana ( jahoda, banán, mentol )  
-Lime lychee blueberry (limetka, liči, čučoriedka )
-Ice citrus mango (mango, citrusy, mentol ) 
-Volcano ( žltý melón, marakuja, grep ) 
-lemon ginger (citron a zazvor)
-raffaello
-ice grape (mentol, hrozno)
-ice bodrum tangerine (mentol,mandarínka)
-fresh pineapple (ananás)
-ice gold peach (mentol, broskyňa)
-bronx 66 (žltý melón, marakuja, citrón, mäta)
-prosecco
-černica
-ice tangerine blueberry (mentol, mandarínka, čučoriedka)
+ice acai raspberry (malina,mentol,acai)
+guava raspberry (guava,malina)
+lime grape (limetka,hrozno)
+ice bodrum tangerine (mandarínka,mentol)
+moscow night (malina,černica,jahoda)
+volcano (marakuja,broskyňa,žltý melón)
+ice citrus mango (citrusy,mentol,mango)
+bronx 66 (žltý melón,marakuja,mäta)
+ice tangerine blueberry (mandarínka,čučoriedka,mentol)
+pomelo
+uhorka,limetka,melón
+cantamel (žltý melón)
+sunset (citrón,jahoda,múčenka)
+kaktus 
+blue lychee (čučoriedka,liči)
+grep orange (grep,pomaranč)
+kiwi apple lemon (kiwi,jablko,citrón)
+peach papaya (broskyňa,papája)
+wildberry (lesné ovocie)
